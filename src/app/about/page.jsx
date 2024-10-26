@@ -15,7 +15,7 @@ function About() {
         possimus mollitia labore ab excepturi nostrum. Nam distinctio explicabo
         pariatur accusantium est, fuga enim repudiandae debitis assumenda
         voluptate nisi, officiis laboriosam!
-      </p>{" "}
+      </p>
       <p>
         Lorem ipsum dolor sit amet consectetur, adipisicing elit. Voluptatem
         possimus mollitia labore ab excepturi nostrum. Nam distinctio explicabo
